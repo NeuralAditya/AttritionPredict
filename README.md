@@ -15,11 +15,15 @@ An interactive, feature-rich **HR Analytics Dashboard** built using **Streamlit*
 
 ## 🖼️ UI Preview
 
-![App Screenshot](static/ui_screenshot.png)
+![App Screenshot](assets/ui_screenshot.png)
 
 ## 🎯 Analysis Output Screenshot
 
-![Prediction Result](static/prediction_screenshot.png)
+![Prediction Result](assets/prediction_screenshot.png)
+
+## 🎯 AI & ML Output Screenshot
+
+![Prediction Result](assets/prediction_screenshot1.png)
 
 ---
 
