@@ -1,11 +1,11 @@
 # 📊 AttritionPredict – Advanced HR Analytics Dashboard
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1.x-blue?logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-orange?logo=matplotlib)
-![Plotly](https://img.shields.io/badge/Plotly-%231E88E5?style=for-the-badge&logo=plotly&logoColor=white)
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.x-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-FF5722?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-1.0-1E88E5?style=for-the-badge&logo=plotly&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ---
 
@@ -23,7 +23,7 @@ An interactive, feature-rich **HR Analytics Dashboard** built using **Streamlit*
 
 ## 🎯 AI & ML Output Screenshot
 
-![Prediction Result](assets/ml_screenshot1.png)
+![Prediction Result](assets/ml_screenshot.png)
 
 ---
 
