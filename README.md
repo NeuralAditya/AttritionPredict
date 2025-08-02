@@ -23,7 +23,7 @@ An interactive, feature-rich **HR Analytics Dashboard** built using **Streamlit*
 
 ## 🎯 AI & ML Output Screenshot
 
-![Prediction Result](assets/prediction_screenshot1.png)
+![Prediction Result](assets/ml_screenshot1.png)
 
 ---
 
